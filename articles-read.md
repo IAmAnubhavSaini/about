@@ -27,8 +27,20 @@ Need to learn K&R stuff to learn about latest technology or it blows in your fac
 
 3.
 --
-
 Git is confusing.
   http://frankchimero.com/writing//two-sentences-about-getting-older-and-working-on-the-web/
 
+
+4.
+--
+Fun with first parent history
+  https://git-blame.blogspot.in/2013/09/fun-with-first-parent-history.html
+  
+`git log --first-parent` to get the first parent history of the repository; blame people who don't use `--rebase`.
+
+
+5.
+--
+keep-canonical-history-correct.txt 
+  https://github.com/git/git/blob/master/Documentation/howto/keep-canonical-history-correct.txt
 
